@@ -1,0 +1,32 @@
+
+
+.project_section{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.project_heading {
+
+    color: rgb(247, 10, 81);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;   
+}
+
+.project_desc {
+    width: 95%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: weight 2;
+    text-align: center;
+}
+
+.project_images {
+     align-items: center;
+}
+
+
+
+
+
+
